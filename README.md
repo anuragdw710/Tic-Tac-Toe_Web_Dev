@@ -1,3 +1,3 @@
 # Tic-Tac-Toe_Web_Dev
-With React
+Check It
 [Go](https://anuragdw710.github.io/Tic-Tac-Toe_Web_Dev/index.html)
